@@ -9,5 +9,5 @@ name: “Kikofloat's Blog”
 title: Kikofloat's Blog
 description: Everything about Kikofloat.
 url: http://kiko626.github.io
-feed: /atom.xml
+#feed: /atom.xml
 author_info: <a href="http://kiko626.github.io">Kikofloat</a>
