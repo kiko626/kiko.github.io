@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to backup automatically with Timeshift
-category: blog
+category: project
 description: 01-16 | never forget backup.
 ---
 
