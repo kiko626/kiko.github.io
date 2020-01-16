@@ -1,5 +1,5 @@
 ---
-layout:     project
+layout: post
 title: How to backup automatically with Timeshift
 category: blog
 description: 01-16 | never forget backup.
