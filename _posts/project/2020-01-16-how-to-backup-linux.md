@@ -7,16 +7,20 @@ description: 01-16 | never forget backup.
 
 Timeshift is a simple application for newer to backup and restore Linux system.
 
-* install in elementary or Ubuntu:
+**Install in elementary or Ubuntu:**
 
->sudo apt-add-repository ppa:teejee2008/ppa
- sudo apt-get update
- sudo apt-get install timeshift
++ sudo apt-add-repository ppa:teejee2008/ppa
 
-* backup:
++ sudo apt-get update
 
-I selected RSYNC as snapshot type and chose to include /user and /root directories. You can also use other filters to select what you want to backup.
++ sudo apt-get install timeshift
 
-* restore:
+**Backup:**
 
-Available snapshots will be shown in window. Timeshift will create auto-snapshots every 5 days by default, if you want to, you can also create backups manually.
++ I selected RSYNC as snapshot type and chose to include /user and /root directories.
++ You can also use other filters to select what you want to backup.
+
+**Restore:**
+
++ Available snapshots will be shown in window.
++ Timeshift will create auto-snapshots every 5 days by default, if you want to, you can also create backups manually.
