@@ -13,15 +13,15 @@ There is little possibility to buy N95 masks with Taobao.com during lunar new ye
 
 + Medical protective masks include N95 and N99, both two are the best choices because they can block at least 95 or even 99 percent of very small (0.3 micron) particles that may contain virus and bacterial.
 
-+ Medical surgical mask is another cheaper alternative, to some extent, it also work partly.
++ Medical surgical mask is another cheaper alternative, to some extent, it also works.
 
 + But general medical mask is NOT recommended to be used.
 
 + [Please see details here.](https://wenku.baidu.com/view/dd793bf28e9951e79b89278b.html)
 
-## Look standard number
+## See standard code
 
-+ You can recognize them at the back of the package of masks, which the standard number of medical surgical mask is 「YY xxx-xxx」, and general medical mask is 「YZB xxx-xxx」.
++ You can recognize them at the back of the package of masks, which the standard code of medical surgical mask is 「YY xxx-xxx」, and general medical mask is 「YZB xxx-xxx」.
 
 + [Learn more about the difference above.](https://www.douban.com/note/446630988/)
 
