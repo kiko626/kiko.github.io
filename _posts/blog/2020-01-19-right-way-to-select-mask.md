@@ -19,7 +19,7 @@ There is little possibility to buy N95 masks with Taobao.com during lunar new ye
 
 + [Please see details here.](https://wenku.baidu.com/view/dd793bf28e9951e79b89278b.html)
 
-## See standard code
+## Look standard code
 
 + You can recognize them at the back of the package of masks, which the standard code of medical surgical mask is 「YY xxx-xxx」, and general medical mask is 「YZB xxx-xxx」.
 
