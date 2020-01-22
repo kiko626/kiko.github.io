@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The right way to select medical mask   
-category: blog
+category: project
 description: 01-19 | For commuters during lunar new year.
 ---
 
