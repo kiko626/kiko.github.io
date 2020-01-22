@@ -10,9 +10,7 @@ Timeshift is a simple application for newer to backup and restore Linux system.
 ## Install in elementary or Ubuntu
 
 + sudo apt-add-repository ppa:teejee2008/ppa
-
 + sudo apt-get update
-
 + sudo apt-get install timeshift
 
 ## Backup
