@@ -57,5 +57,5 @@ document.addEventListener('keydown', function(e) {
 
 function activateCheats() {
   alert("在「城堡」页面中发动才有效哦");
-  window.location.href="https://publius.club/";
+  window.location.href="https://publius.club/castle";
 }
