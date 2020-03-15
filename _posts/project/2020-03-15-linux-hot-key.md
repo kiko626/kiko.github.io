@@ -13,7 +13,7 @@ description: 03-15 | Hot key.
     Ctrl C : 中断正在当前正在执行的程序
     Ctrl A ： 移动光标到命令行首
     Ctrl E : 移动光标到命令行尾
-    Ctrl R，再按历史命令中出现过的字符串：按字符串寻找历史命令
+    Ctrl R : 再按历史命令中出现过的字符串：按字符串寻找历史命令
     Ctrl U : 清空当前键入的命令
     Ctrl PageUp : 屏幕输出向上翻页
     Ctrl PageDown : 屏幕输出向下翻页
