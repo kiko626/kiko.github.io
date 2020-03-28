@@ -2,7 +2,7 @@
 layout: post
 title: Linux 快捷键
 category: project
-description: 03-15 | Hot key.
+description: 03-15 | Linux Hot key.
 ---
 
 常用:

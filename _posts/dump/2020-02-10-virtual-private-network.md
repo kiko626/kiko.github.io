@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      为什么我不推荐你使用免费VPN
-category: dump
+category:   dump
 description: 02-10 | Ctrl+A
 ---
 
