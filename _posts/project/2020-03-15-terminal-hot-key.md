@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Linux 快捷键
+title: Terminal 快捷键
 category: project
-description: 03-15 | Linux Hot key.
+description: 03-15 | Terminal Hot key.
 ---
 
 常用:
