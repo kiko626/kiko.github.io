@@ -2,7 +2,7 @@
 layout: post
 title: Linux 卡死解决方法
 category: project
-description: 03-28 | MPV Hot key.
+description: 03-28 | 3 ways to deal with a frozen linux.
 ---
 
 **Linux 不建议长按 Power 强制关机，突然断电有可能出现「login loop」!**

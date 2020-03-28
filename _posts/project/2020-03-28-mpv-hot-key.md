@@ -2,7 +2,7 @@
 layout: post
 title: MPV 快捷键
 category: project
-description: 03-15 | MPV Hot key.
+description: 03-28 | MPV Hot key.
 ---
 
 字幕
