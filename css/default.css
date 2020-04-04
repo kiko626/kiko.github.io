@@ -1,7 +1,4 @@
-/**
- * Author:           
- * Contact:          
- */
+
 
 /* 重置浏览器CSS */
 html{color:#000;}
@@ -50,7 +47,8 @@ a.external {padding-right:13px;background:url('/images/icons.gif') no-repeat rig
 a.external:hover {background-position:right -15px;}
 .entry-title,.entry-title a {font-size:30px;font-weight:bold;margin-bottom:6px;color:#000;text-align:center;word-wrap: break-word;}
 .entry-title a:hover {text-decoration:none;}
-.entry-date {text-align:center;color:#999;margin-bottom:60px;font-size:14px;}
+.entry-date {text-align:center;color:#999;margin-bottom:1px;font-size:14px;}
+.entry-analysis {text-align:right;color:#999;margin-bottom:59px;font-size:14px;}
 
 h2 {font-size:22px;font-weight:bold;margin-bottom:25px;}
 h3 {font-size:18px;font-weight:bold;margin-bottom:25px;}
@@ -95,7 +93,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-position:50% 50%;
 }
 .blog .aside{
-    background-image:url(https://i.loli.net/2020/01/05/tpYqW54H9vzUZ6S.jpg);
+    background-image:url(https://i.loli.net/2020/01/05/yw28JqUpPcDeAXK.jpg);
 }
 .dump .aside{
     background-image:url(https://i.loli.net/2020/01/05/m1qeJ25zOxMfQP6.png);
