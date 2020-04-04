@@ -47,6 +47,6 @@ layout: default
     
 </div>
     <!-- 不蒜子计数 -->
-    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
     <!-- 不蒜子计数 -->
 <script src="/js/post.js" type="text/javascript"></script>
