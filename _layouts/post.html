@@ -17,9 +17,16 @@ layout: default
     <div class="entry">
         <h1 class="entry-title"><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
         <p class="entry-date">{{ page.date|date:"%Y-%m-%d" }}</p>
-        <p class="entry-analysis"><span id="busuanzi_container_site_pv">总访问量<span id="busuanzi_value_site_pv"></span>次</span></p>
 
         {{ content }}
+        
+        
+        <!-- 不蒜子计数 -->
+        <p class="entry-analysis"><span id="busuanzi_container_page_pv">
+  本文阅读量<span id="busuanzi_value_page_pv"></span>次
+</span></p>
+        <!-- 不蒜子计数 -->
+        
     </div>
 
     <div class="sidenav">

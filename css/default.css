@@ -28,7 +28,7 @@ body .hide{display:none;}
 .right{float:right;}
 
 /***********灰白**********/
-body * {
+/*body * {
   -webkit-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
   -ms-filter: grayscale(100%);
@@ -36,7 +36,7 @@ body * {
   filter: grayscale(100%);
   filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
   filter: gray;
-}
+} */
 
 
 /***********default settings**********/
@@ -47,8 +47,8 @@ a.external {padding-right:13px;background:url('/images/icons.gif') no-repeat rig
 a.external:hover {background-position:right -15px;}
 .entry-title,.entry-title a {font-size:30px;font-weight:bold;margin-bottom:6px;color:#000;text-align:center;word-wrap: break-word;}
 .entry-title a:hover {text-decoration:none;}
-.entry-date {text-align:center;color:#999;margin-bottom:1px;font-size:14px;}
-.entry-analysis {text-align:right;color:#999;margin-bottom:59px;font-size:10px;}
+.entry-date {text-align:center;color:#999;margin-bottom:60px;font-size:14px;}
+.entry-analysis {text-align:right;color:#999;margin-bottom:5px;font-size:12px;}
 
 h2 {font-size:22px;font-weight:bold;margin-bottom:25px;}
 h3 {font-size:18px;font-weight:bold;margin-bottom:25px;}
