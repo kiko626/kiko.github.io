@@ -24,7 +24,8 @@ description: 04-07 | New ransomware 'WannaRen'
 3. 及时备份重要文件。
 
 
-![“WannaRen”的新型勒索病毒](https://file1.hkepc.net/2020/04/source/06201815952045856161.jpg )
+
+![“WannaRen”的新型勒索病毒](https://i.loli.net/2020/04/09/JwG7xfOaLu1BX4v.jpg)
 
 [360社区：勒索病毒，后缀.WannaRen，求助大神解锁文件！！有重谢](http://shequ.mall.360.com/forum.php?mod=viewthread&tid=15861844)
 
